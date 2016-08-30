@@ -10,6 +10,7 @@
     'depends': ['website'],
     'data': [
         'static/src/views/theme.xml',
+        'static/src/views/our_work.xml',
     ],
     'images':[
             'static/description/vittoria.png',
