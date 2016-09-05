@@ -1,3 +1,33 @@
+.navbar-default {
+    background-color: #eb514c;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #000;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #e18167;
+}
+.text-primary {
+    color: #34aa5f;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #e18167;
+    border-color: #e18167;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #34aa5f;
+    border-color: #34aa5f;
+}
+
+
 
 	body {
 		font-family: 'Lato',sans-serif;
